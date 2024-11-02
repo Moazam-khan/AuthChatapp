@@ -1,0 +1,89 @@
+/* General body styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #c9c3c3; /* Light gray background */
+}
+
+/* Centering the form */
+form {
+  background-color: #ffffff; /* White background for the form */
+  max-width: 400px; /* Maximum width of the form */
+
+  padding: 20px; /* Padding inside the form */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+}
+
+/* Heading styles */
+h1 {
+  text-align: center; /* Center the heading */
+  color: #333; /* Dark gray text */
+}
+
+/* Label styles */
+label {
+  display: block; /* Make labels block elements */
+  margin-bottom: 5px; /* Space below labels */
+  color: #555; /* Medium gray text */
+}
+
+/* Input field styles */
+input {
+  width: 100%; /* Full width */
+  padding: 10px; /* Padding inside the inputs */
+  margin-bottom: 15px; /* Space below inputs */
+  border: 1px solid #ccc; /* Light gray border */
+  border-radius: 4px; /* Slightly rounded corners */
+  font-size: 16px; /* Font size */
+}
+
+/* Error message styles */
+.invalid-feedback {
+  color: #d9534f; /* Red color for error messages */
+  font-size: 12px; /* Smaller font size */
+}
+
+/* Button styles */
+button {
+  width: 100%; /* Full width */
+  padding: 10px; /* Padding inside the button */
+  background-color: #007bff; /* Bootstrap primary color */
+  color: white; /* White text color */
+  border: none; /* No border */
+  border-radius: 4px; /* Slightly rounded corners */
+  font-size: 16px; /* Font size */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth transition */
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Forgot password text styles */
+.forgot-password {
+  text-align: right; /* Align text to the right */
+  margin-top: 10px; /* Space above */
+}
+
+/* Link styles */
+a {
+  color: #007bff; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+
+
+
+
+
+
+
+
+
